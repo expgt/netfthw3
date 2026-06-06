@@ -45,5 +45,6 @@
 
 ![Backup_incr](https://github.com/expgt/netfthw3/blob/main/3_4_1_netfthw.png)
 ![Restore](https://github.com/expgt/netfthw3/blob/main/3_4_2_netfthw.png)
+![Backup_dir](https://github.com/expgt/netfthw3/blob/main/3_4_3_netfthw.png)
 [Backup_script_incr](https://github.com/expgt/netfthw3/blob/main/3_4_backup_incr.sh)
 [Restore_script](https://github.com/expgt/netfthw3/blob/main/3_4_restore_backup.sh)
